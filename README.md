@@ -26,3 +26,13 @@ There are quite a few goals for this case study.
 - Build a logistic regression model to assign a lead score between 0 and 100 to each of the leads which can be used by the company to target potential leads. A higher score would mean that the lead is hot, i.e. is most likely to convert whereas a lower score would mean that the lead is cold and will mostly not get converted.
 
 - There are some more problems presented by the company which your model should be able to adjust to if the company's requirement changes in the future so you will need to handle these as well. Make sure you include this in your final PPT to business where you'll make recommendations.
+
+
+This POC contains below files:
+
+- Leads Data Dictionary.xlsx - Data Dictionary
+- Leads.csv - Data File
+- Lead Scoring Case study_Summary Report.pdf - A summary report on this POC
+- Lead Scoring Subjective Questions.pdf - A subjective question based on this POC
+- Lead_Scoring_Prediction.ipynb - iPython Notebook
+- Lead_Scoring_recommendation_PPT_to business.pdf - Recommendation to Business PPT
